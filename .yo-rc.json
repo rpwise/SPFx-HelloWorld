@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "sp-fx-hello-world-wp",
+    "libraryId": "98344d33-0264-4a8e-ab35-49c7c77783f9",
+    "environment": "spo"
+  }
+}

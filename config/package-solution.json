@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-hello-world-wp-client-side-solution",
+    "id": "98344d33-0264-4a8e-ab35-49c7c77783f9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-hello-world-wp.sppkg"
+  }
+}
